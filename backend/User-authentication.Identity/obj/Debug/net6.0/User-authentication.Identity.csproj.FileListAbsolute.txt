@@ -1,0 +1,12 @@
+D:\Work\User-authentication\backend\User-authentication.Identity\bin\Debug\net6.0\User-authentication.Identity.deps.json
+D:\Work\User-authentication\backend\User-authentication.Identity\bin\Debug\net6.0\User-authentication.Identity.dll
+D:\Work\User-authentication\backend\User-authentication.Identity\bin\Debug\net6.0\User-authentication.Identity.pdb
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.csproj.AssemblyReference.cache
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.AssemblyInfoInputs.cache
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.AssemblyInfo.cs
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.csproj.CoreCompileInputs.cache
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.dll
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\refint\User-authentication.Identity.dll
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\User-authentication.Identity.pdb
+D:\Work\User-authentication\backend\User-authentication.Identity\obj\Debug\net6.0\ref\User-authentication.Identity.dll

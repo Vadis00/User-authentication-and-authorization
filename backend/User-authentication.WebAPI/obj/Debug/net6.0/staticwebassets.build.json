@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lbQhfXjjdprFk7/5eI/V/L1EEmYYm5OPQ0Wt2M8aWv4=",
+  "Source": "User-authentication.WebAPI",
+  "BasePath": "_content/User-authentication.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
