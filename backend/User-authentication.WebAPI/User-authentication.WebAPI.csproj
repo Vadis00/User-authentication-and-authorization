@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\User-authentication.BLL\User-authentication.BLL.csproj" />
     <ProjectReference Include="..\User-authentication.DAL\User-authentication.DAL.csproj" />
   </ItemGroup>
 

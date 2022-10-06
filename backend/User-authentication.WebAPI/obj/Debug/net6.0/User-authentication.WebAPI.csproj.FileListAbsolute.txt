@@ -37,3 +37,5 @@ D:\Work\User-authentication\backend\User-authentication.WebAPI\bin\Debug\net6.0\
 D:\Work\User-authentication\backend\User-authentication.WebAPI\bin\Debug\net6.0\User-authentication.Common.pdb
 D:\Work\User-authentication\backend\User-authentication.WebAPI\bin\Debug\net6.0\Humanizer.dll
 D:\Work\User-authentication\backend\User-authentication.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\User-authentication\backend\User-authentication.WebAPI\bin\Debug\net6.0\User-authentication.BLL.dll
+D:\Work\User-authentication\backend\User-authentication.WebAPI\bin\Debug\net6.0\User-authentication.BLL.pdb

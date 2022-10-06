@@ -447,6 +447,20 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "User-authentication.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "User-authentication.Common": "1.0.0",
+          "User-authentication.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/User-authentication.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/User-authentication.BLL.dll": {}
+        }
+      },
       "User-authentication.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1051,6 +1065,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "User-authentication.BLL/1.0.0": {
+      "type": "project",
+      "path": "../User-authentication.BLL/User-authentication.BLL.csproj",
+      "msbuildProject": "../User-authentication.BLL/User-authentication.BLL.csproj"
+    },
     "User-authentication.Common/1.0.0": {
       "type": "project",
       "path": "../User-authentication.Common/User-authentication.Common.csproj",
@@ -1067,6 +1086,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.9",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.7",
       "Swashbuckle.AspNetCore >= 6.2.3",
+      "User-authentication.BLL >= 1.0.0",
       "User-authentication.DAL >= 1.0.0"
     ]
   },
@@ -1097,6 +1117,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Work\\User-authentication\\backend\\User-authentication.BLL\\User-authentication.BLL.csproj": {
+              "projectPath": "D:\\Work\\User-authentication\\backend\\User-authentication.BLL\\User-authentication.BLL.csproj"
+            },
             "D:\\Work\\User-authentication\\backend\\User-authentication.DAL\\User-authentication.DAL.csproj": {
               "projectPath": "D:\\Work\\User-authentication\\backend\\User-authentication.DAL\\User-authentication.DAL.csproj"
             }

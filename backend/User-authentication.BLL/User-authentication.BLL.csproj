@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\User-authentication.Common\User-authentication.Common.csproj" />
+    <ProjectReference Include="..\User-authentication.DAL\User-authentication.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
