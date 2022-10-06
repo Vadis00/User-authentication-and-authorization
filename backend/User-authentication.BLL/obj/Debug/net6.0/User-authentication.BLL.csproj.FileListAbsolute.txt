@@ -1,0 +1,12 @@
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.BLL.deps.json
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.BLL.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.BLL.pdb
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.csproj.AssemblyReference.cache
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.AssemblyInfoInputs.cache
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.AssemblyInfo.cs
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.csproj.CoreCompileInputs.cache
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\refint\User-authentication.BLL.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.pdb
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\ref\User-authentication.BLL.dll
