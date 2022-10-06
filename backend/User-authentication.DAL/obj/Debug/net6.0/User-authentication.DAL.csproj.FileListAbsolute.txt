@@ -1,0 +1,15 @@
+D:\Work\User-authentication\backend\User-authentication.DAL\bin\Debug\net6.0\User-authentication.DAL.deps.json
+D:\Work\User-authentication\backend\User-authentication.DAL\bin\Debug\net6.0\User-authentication.DAL.dll
+D:\Work\User-authentication\backend\User-authentication.DAL\bin\Debug\net6.0\User-authentication.DAL.pdb
+D:\Work\User-authentication\backend\User-authentication.DAL\bin\Debug\net6.0\User-authentication.Common.dll
+D:\Work\User-authentication\backend\User-authentication.DAL\bin\Debug\net6.0\User-authentication.Common.pdb
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.csproj.AssemblyReference.cache
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.AssemblyInfoInputs.cache
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.AssemblyInfo.cs
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.csproj.CoreCompileInputs.cache
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.csproj.CopyComplete
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.dll
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\refint\User-authentication.DAL.dll
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\User-authentication.DAL.pdb
+D:\Work\User-authentication\backend\User-authentication.DAL\obj\Debug\net6.0\ref\User-authentication.DAL.dll
