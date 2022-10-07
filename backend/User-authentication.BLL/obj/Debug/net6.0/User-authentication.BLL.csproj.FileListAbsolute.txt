@@ -10,3 +10,10 @@ D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\Use
 D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\refint\User-authentication.BLL.dll
 D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.pdb
 D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\ref\User-authentication.BLL.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.Common.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.Common.pdb
+D:\Work\User-authentication\backend\User-authentication.BLL\obj\Debug\net6.0\User-authentication.BLL.csproj.CopyComplete
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.DAL.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.DAL.pdb
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.Identity.dll
+D:\Work\User-authentication\backend\User-authentication.BLL\bin\Debug\net6.0\User-authentication.Identity.pdb

@@ -8,7 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Service\" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.23.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\User-authentication.Common\User-authentication.Common.csproj" />
+    <ProjectReference Include="..\User-authentication.DAL\User-authentication.DAL.csproj" />
+    <ProjectReference Include="..\User-authentication.Identity\User-authentication.Identity.csproj" />
   </ItemGroup>
 
 </Project>
