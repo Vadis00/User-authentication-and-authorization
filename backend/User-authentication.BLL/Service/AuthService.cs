@@ -14,9 +14,7 @@ namespace User_authentication.BLL.Service
 
         public async Task<string> Login(string email, string password)
         {
-            var user = await db.Users.FirstOrDefaultAsync(u => u.Login == email);
-
-            if (user == null) return "Not Found";
+            var user = await db.Users.FirstOrDefaultAsync(u => u.Login == email) ?? throw new Exception("Not Found");
 
             return "Found";
         }
