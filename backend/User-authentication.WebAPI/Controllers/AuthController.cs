@@ -20,7 +20,7 @@ namespace User_authentication.WebAPI.Controllers
         public async Task<IActionResult> Auth(string email, string password)
         {
 
-            return Ok(await authService.Login(email, password));
+            return Ok(await authService.AuthenticateUser(email, password));
         }
     }
 }
