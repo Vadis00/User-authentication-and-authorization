@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "016+aB4M8RQablskb5mdL9MxvGJVdsTCNwqSpYryWv4o0nmYRpwi/gALVoBAuiKFlfVWXDOaCyxA9qK1urWGKg==",
+  "dgSpecHash": "s+2pUs5NHMPc/BqyjnKPoK+7RanXRvcCBauejpRpW9gK1yqUrid5nM36Uql/MX1CkbhJdny7xoP4KOKN/ymquw==",
   "success": true,
   "projectFilePath": "D:\\Work\\User-authentication\\backend\\User-authentication.Identity\\User-authentication.Identity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vgome\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\vgome\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.23.1\\microsoft.identitymodel.abstractions.6.23.1.nupkg.sha512",
+    "C:\\Users\\vgome\\.nuget\\packages\\microsoft.identitymodel.logging\\6.23.1\\microsoft.identitymodel.logging.6.23.1.nupkg.sha512",
+    "C:\\Users\\vgome\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.23.1\\microsoft.identitymodel.tokens.6.23.1.nupkg.sha512",
+    "C:\\Users\\vgome\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
