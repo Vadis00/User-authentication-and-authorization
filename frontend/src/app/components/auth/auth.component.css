@@ -1,51 +1,63 @@
-.header{
-    width: 100%;
-    background: rgb(224, 223, 223);
+.conteiner {
+  height: 100vh;
+  width: 100%;
 
-    display: flex;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
-.title{
-      padding: 10px;
+.header {
+  width: 100%;
+  background: rgb(224, 223, 223);
+
+  display: flex;
+  align-items: center;
 }
 
-.body{
-    margin-top: 10px
+.title {
+  padding: 10px;
 }
 
-.btn{
-    background: rgb(224, 223, 223);
-}
-.auth-form{
+.body {
+  display: flex;
 
-    width: 500px;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    background: rgba(224, 223, 223, 0.418);
-
-    margin: auto
+  height: 100%;  
+  margin-top: 10px;
 }
 
-.auth-form-wrapper{
-    margin: auto;
+.btn {
+  background: rgb(224, 223, 223);
+}
+.auth-form {
+  width: 500px;
+  height: 500px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background: rgba(224, 223, 223, 0.418);
+  border-radius: 10px;
+
+  margin: auto;
 }
 
-.input{
-    width: 300px;
+.auth-form-wrapper {
+  margin: auto;
 }
 
-.input-wrapper{
-    padding: 10px
+.input {
+  width: 300px;
 }
 
-.input-placeholder{
-    width: 80px;
+.input-wrapper {
+  padding: 10px;
 }
 
-.auth-btn{
-    float: right;
+.input-placeholder {
+  width: 80px;
+}
+
+.auth-btn {
+  float: right;
 }
