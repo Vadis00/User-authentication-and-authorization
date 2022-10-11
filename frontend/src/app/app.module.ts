@@ -5,10 +5,12 @@ import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
+import { AuthComponent } from './components/auth/auth.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    AuthComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -16,7 +18,7 @@ import { AppComponent } from './app.component';
     FormsModule,
     RouterModule.forRoot([
 
-    ])
+    ]),
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,51 @@
+.header{
+    width: 100%;
+    background: rgb(224, 223, 223);
+
+    display: flex;
+    align-items: center;
+}
+
+.title{
+      padding: 10px;
+}
+
+.body{
+    margin-top: 10px
+}
+
+.btn{
+    background: rgb(224, 223, 223);
+}
+.auth-form{
+
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background: rgba(224, 223, 223, 0.418);
+
+    margin: auto
+}
+
+.auth-form-wrapper{
+    margin: auto;
+}
+
+.input{
+    width: 300px;
+}
+
+.input-wrapper{
+    padding: 10px
+}
+
+.input-placeholder{
+    width: 80px;
+}
+
+.auth-btn{
+    float: right;
+}
