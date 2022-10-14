@@ -1,0 +1,15 @@
+<div class="conteiner">
+  <div class="background">
+    <div class="rows" *ngFor="let column of columns">
+      <div
+        *ngFor="let value of rows"
+        class="column"
+        [ngStyle]="{ background: generateRandomColor() }"
+      ></div>
+    </div>
+  </div>
+  <div class="logo">
+    <h2>An example of authorization</h2>
+  </div>
+  <div class="login"></div>
+</div>
