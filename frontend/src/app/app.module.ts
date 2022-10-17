@@ -7,12 +7,14 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { AuthComponent } from './components/auth/auth.component';
 import { HeaderComponent } from './share/header/header.component';
+import { InputComponent } from './share/input/input.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AuthComponent,
     HeaderComponent,
+    InputComponent,
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
