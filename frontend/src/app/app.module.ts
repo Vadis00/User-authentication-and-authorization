@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { AuthComponent } from './components/auth/auth.component';
 import { HeaderComponent } from './share/header/header.component';
 import { InputComponent } from './share/input/input.component';
+import { ButtonComponent } from './share/button/button.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { InputComponent } from './share/input/input.component';
     AuthComponent,
     HeaderComponent,
     InputComponent,
+    ButtonComponent,
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
