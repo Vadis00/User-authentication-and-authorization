@@ -1,12 +1,12 @@
 <div class="conteiner">
-<app-header></app-header>
+  <app-header></app-header>
   <div class="body">
-    <form class="auth-form">
+    <form [formGroup]="taskCreateForm" class="auth-form">
       <div class="auth-form-wrapper">
-          <app-input inputText="Login"></app-input>
-          <app-input inputText="Password" inputType="password"></app-input>
+        <app-input inputText="Login" [formControl]="summaryControl" [(ngModel)]="inputSearch"></app-input>
+        <app-input inputText="Password" inputType="password"></app-input>
 
-          <app-button btnText="Login" class="auth-btn"></app-button>
+        <app-button btnText="Login" class="auth-btn" (click)="test()"></app-button>
       </div>
     </form>
   </div>
