@@ -1,21 +1,12 @@
 <div class="conteiner">
-  <div class="header">
-    <h2 class="title">An example of authorization</h2>
-  </div>
+  <app-header></app-header>
   <div class="body">
-    <form class="auth-form">
+    <form [formGroup]="taskCreateForm" class="auth-form">
       <div class="auth-form-wrapper">
-        <div class="input-wrapper">
-          <label for="login" class="input-placeholder">Login</label>
-          <input type="text" class="input" id="login" />
-        </div>
+        <app-input inputText="Login" [formControl]="emailControl"  ></app-input>
+        <app-input inputText="Password" inputType="password" [formControl]="passwordControl"></app-input>
 
-        <div class="input-wrapper">
-          <label for="password" class="input-placeholder">Password</label>
-          <input type="password" class="input" id="password" />
-        </div>
-
-        <input type="button" class="btn auth-btn" value="Auth" />
+        <app-button btnText="Login" class="auth-btn" (click)="test()"></app-button>
       </div>
     </form>
   </div>

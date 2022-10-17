@@ -1,0 +1,19 @@
+<div class="input-container">
+  <label  >{{ inputText }}</label>
+  <div class="input-wrp">
+ 
+    <input
+      [(ngModel)]="inputValue"
+      (ngModelChange)="onChange($event)"
+      (ngModelChange)="emitValueChange()"
+      (blur)="onTouched($event)"
+      [type]="inputType"
+      [placeholder]="inputPlaceholder"
+      [class]="inputClass"
+      [ngClass]="{
+        'error': inputValueIsError && inputErrorMessage
+      }"
+    />
+  </div>
+  <span class="error" *ngIf="inputValueIsError">{{ inputErrorMessage }}</span>
+</div>
